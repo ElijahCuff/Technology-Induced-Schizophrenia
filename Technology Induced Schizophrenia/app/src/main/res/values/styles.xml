@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- 
+		Customize your Theme here, please add a layout for 
+		settings if you require futher design ability
+		-->
+    <style name="AppTheme" parent="@android:style/Theme.Holo.Light">
+	</style>
+</resources>
