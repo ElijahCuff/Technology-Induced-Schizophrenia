@@ -19,8 +19,15 @@ public class Settings {
     {
         return pref.getBoolean("whispers", false);
 	  }
+    
+    
     public Boolean hideApp()
     {
         return pref.getBoolean("useHide", false);
 	  }
+    
+    public String selSound()
+    {
+        return pref.getString("commands","danger");
+    }
 }

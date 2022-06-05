@@ -13,13 +13,14 @@
           android:summary="Enable background hidden voices to be played randomly." />
       
 
-      <MultiSelectListPreference
+      <ListPreference
           android:key="commands"
           android:title="Whisper Commands"
           android:summary="Enable selected vocal commands to be played."
           android:entries="@array/command_titles"
-          android:entryValues="@array/command_descriptions"
-          android:dialogTitle="Select Whisper Commands" />
+          android:entryValues="@array/command_keys"
+          android:defaultValue="danger"
+          />
       
 		<SwitchPreference
 			android:key="useHide"

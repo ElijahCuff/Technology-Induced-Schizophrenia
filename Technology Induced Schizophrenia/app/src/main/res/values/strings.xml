@@ -12,10 +12,10 @@
         <item>You\'re going to die !</item>
     </string-array>
     
-    <string-array name="command_descriptions">
-        <item>A series of commands inducing fear.</item>
-        <item>A series of commands inducing social anxiety.</item>
-        <item>A series of commands inducing fear of death.</item>
+    <string-array name="command_keys">
+        <item>danger</item>
+        <item>hate</item>
+        <item>die</item>
     </string-array>
     
 </resources>

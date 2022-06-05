@@ -8,6 +8,7 @@ import android.os.*;
 import android.preference.*;
 import android.widget.*;
 import java.util.*;
+import android.content.res.*;
 
 public class Preferences extends PreferenceActivity implements
 SharedPreferences.OnSharedPreferenceChangeListener {
@@ -52,9 +53,30 @@ SharedPreferences.OnSharedPreferenceChangeListener {
             }
         } 
 
+        
+        if(key.equals("commands"))
+        {
+            String sel = settings.selSound();  
+            String[] sounds = getResources().getStringArray(R.array.command_keys);
+            if(sel.equals(sounds[0]))
+            {
+                selSound = R.raw.whisper_1;
+            }
+            else if(sel.equals(sounds[1]))
+            {
+                selSound = R.raw.whisper_2;
+            }
+            else if(sel.equals(sounds[2]))
+            {
+                selSound = R.raw.whisper_3;
+            }
+            
+          }
+          
+
         if (key.equals("whispers")) {
             if (settings.whispers()) {     
-                whisper(R.raw.whisper_1);     
+                whisper();           
             }
             else {
                 if (mp != null) {
@@ -63,6 +85,8 @@ SharedPreferences.OnSharedPreferenceChangeListener {
             }
         }
 	  }
+    
+    int selSound = 0;
     Settings settings;
     MediaPlayer mp ;
     Context ctx;
@@ -85,12 +109,36 @@ SharedPreferences.OnSharedPreferenceChangeListener {
             // getPreferenceScreen().findPreference("pref_key").setEnabled(false);
         }
 
+        
+        String sel = settings.selSound();
+
+        String[] sounds = getResources().getStringArray(R.array.command_keys);
+        if(sel.equals(sounds[0]))
+        {
+            selSound = R.raw.whisper_1;
+        }
+        else if(sel.equals(sounds[1]))
+        {
+            selSound = R.raw.whisper_2;
+        }
+        else if(sel.equals(sounds[2]))
+        {
+            selSound = R.raw.whisper_3;
+        }
+        
         if (settings.whispers()) {
-            if (mp == null) {
-                whisper(R.raw.whisper_1);
+            if (settings.whispers()) {     
+            if(mp == null)
+            {
+                whisper();     
+                }
+            }
+            else {
+                if (mp != null) {
+                    mp.stop();
+                }
             }
         }
-
 	  }
 
     // custom function to reload activity-alias
@@ -105,7 +153,7 @@ SharedPreferences.OnSharedPreferenceChangeListener {
             state, PackageManager.DONT_KILL_APP);
 	  }
 
-    public void whisper(final int sound)
+    public void whisper()
     {
         new Thread(new Runnable(){
                 @Override
@@ -114,16 +162,16 @@ SharedPreferences.OnSharedPreferenceChangeListener {
                     while (settings.whispers()) {
                         AudioManager audioManager = (AudioManager)getSystemService(Context.AUDIO_SERVICE);
                         audioManager.setStreamVolume(AudioManager.STREAM_MUSIC, 100, 0);
-                        mp = MediaPlayer.create(Preferences.this, sound);
-                        mp.setVolume(0.03f, 0.03f);
+                        mp = MediaPlayer.create(Preferences.this, selSound);
+                        mp.setVolume(0.02f, 0.02f);
                         mp.start();
                         Random rand = new Random();
-                        int amount = rand.nextInt(10000);
-                        SystemClock.sleep(amount + 5000);
-                        mp = MediaPlayer.create(Preferences.this, sound);
-                        mp.setVolume(0.03f, 0.03f);
+                        int amount = rand.nextInt(80000);
+                        SystemClock.sleep(amount + 25000);
+                        mp = MediaPlayer.create(Preferences.this, selSound);
+                        mp.setVolume(0.02f, 0.02f);
                         mp.start();
-                        SystemClock.sleep(amount + 5000);
+                        SystemClock.sleep(amount + 25000);
                     }
                 }
             }).start();
