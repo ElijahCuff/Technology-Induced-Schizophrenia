@@ -5,7 +5,8 @@
     
 ### Concept   
 > Several security risks surrounding psychology and mental stability are being treated as benign or unlikely scenarios, when in reality they're extremely dangerous in the wrong hands and actively being used throughout the world to target innocent individuals.   
-    
+      
+> This project DOES NOT include information on EMF and EMR Exposure, Transcranial Magnetic Stimulation.
     
 #### Audio.  
 • Random Playback of Vocal Commands "quite enough to disguise location".
