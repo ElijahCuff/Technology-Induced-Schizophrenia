@@ -5,6 +5,8 @@ UPDATED
 - Ultrasound Voice Transmission to Inner Ear Bones has proven effective at transmitting voice to the skull ( V2K ) at an average of 19500Hz   
   
 ![screen](https://github.com/ElijahCuff/Technology-Induced-Schizophrenia-/blob/main/Example%201.jpg)
+   
+US Navy conducted several successful studies in 2003 that seem to have made it into consumer usage.   
 
  
   
@@ -16,8 +18,8 @@ UPDATED
 > This project DOES NOT include information on EMF and EMR Exposure, Transcranial Magnetic Stimulation.
     
 #### Audio.  
-• Random Playback of Vocal Commands "quite enough to disguise location".      
-• Ultrasonic Audio Transmission "Just out of normal audible hearing, but enough to vibrate the inner ear bones and cause internal vocal commands".    
+- Random Playback of Vocal Commands "quite enough to disguise location".      
+- Ultrasonic Audio Transmission "Just out of normal audible hearing but enough to vibrate the inner ear bones and cause internal vocal commands to a target".    
 
 #### Video.    
 • Subliminal Imaging ( Image Flickers ) "quick enough not to notice a change in picture"
