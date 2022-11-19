@@ -13,7 +13,7 @@ US Navy conducted several successful studies in 2003 that seem to have made it i
 #### Inspired by "Screen Slaver" from "The Incredibles", this is the first application I have developed and are aware of in existence to target people's psychology for adverse health effects.    
     
 ### Concept   
-> Several security risks surrounding psychology and mental stability are being treated as benign or unlikely scenarios, when in reality they're extremely dangerous in the wrong hands and actively being used throughout the world to target innocent individuals.   
+> Several security risks surrounding psychology and mental stability are being treated as benign or unlikely scenarios, when in reality they're extremely dangerous in the wrong hands and are actively being used throughout the world to target innocent individuals.   
       
 > This project DOES NOT include information on EMF and EMR Exposure, Transcranial Magnetic Stimulation.
     
