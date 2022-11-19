@@ -1,6 +1,11 @@
 # Technology Induced Schizophrenia.    
 > Technology Induced and Enhanced Schizophrenia - A Cyber Security Education Initiative.     
      
+UPDATED   
+- Ultrasound Voice Transmission to Inner Ear Bones has proven effective at transmitting voice to the skull ( V2K ) at an average of 19500Hz   
+  
+ 
+  
 #### Inspired by "Screen Slaver" from "The Incredibles", this is the first application I have developed and are aware of in existence to target people's psychology for adverse health effects.    
     
 ### Concept   
