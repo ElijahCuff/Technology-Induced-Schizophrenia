@@ -16,8 +16,8 @@ UPDATED
 > This project DOES NOT include information on EMF and EMR Exposure, Transcranial Magnetic Stimulation.
     
 #### Audio.  
-• Random Playback of Vocal Commands "quite enough to disguise location".
-• Ultrasonic Audio Transmission "Just out of normal audible hearing, but enough to vibrate the inner ear bones and cause internal vocal commands"    
+• Random Playback of Vocal Commands "quite enough to disguise location".      
+• Ultrasonic Audio Transmission "Just out of normal audible hearing, but enough to vibrate the inner ear bones and cause internal vocal commands".    
 
 #### Video.    
 • Subliminal Imaging ( Image Flickers ) "quick enough not to notice a change in picture"
