@@ -6,7 +6,7 @@ UPDATED
   
 ![screen](https://github.com/ElijahCuff/Technology-Induced-Schizophrenia-/blob/main/Example%201.jpg)
    
-US Navy conducted several successful studies in 2003 that seem to have made it into consumer usage.   
+US Navy conducted several successful studies in 2003 that seem to have made it into commercial usage.   
 > V2K constitutes as War Crimes under the Geneva Conventions https://en.wikipedia.org/wiki/Geneva_Conventions
  
   
