@@ -1,5 +1,5 @@
-# Technology Induced Schizophrenia.    
-> Technology Induced and Enhanced Schizophrenia - A Cyber Security Education Initiative.     
+# Technology Induced & Enhanced Schizophrenia.    
+> A Cyber Security Education Initiative.     
      
 ### V2K ( Voice to Skull )   
 - Ultrasound Voice Transmission to Inner Ear Bones has proven effective at transmitting voice to the skull ( V2K ) at an average of 19500Hz   
