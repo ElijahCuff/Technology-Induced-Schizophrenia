@@ -1,14 +1,20 @@
 # Technology Induced Schizophrenia.    
 > Technology Induced and Enhanced Schizophrenia - A Cyber Security Education Initiative.     
      
-UPDATED   
+### V2K ( Voice to Skull )   
 - Ultrasound Voice Transmission to Inner Ear Bones has proven effective at transmitting voice to the skull ( V2K ) at an average of 19500Hz   
   
 ![screen](https://github.com/ElijahCuff/Technology-Induced-Schizophrenia-/blob/main/Example%201.jpg)
    
 US Navy conducted several successful studies in 2003 that seem to have made it into commercial usage.   
 > V2K constitutes as War Crimes under the Geneva Conventions https://en.wikipedia.org/wiki/Geneva_Conventions
- 
+    
+    
+### Sleep Hypnosis     
+- Smart applications designed to detect sleeping, then play a series of vocal commands to hypnotise the victim have shown to be extremely effective at providing life changing results.     
+> Applications can also be used to wake the user up repeatedly ( sleep deprivation torture )     
+  
+
   
 #### Inspired by "Screen Slaver" from "The Incredibles", this is the first application I have developed and are aware of in existence to target people's psychology for adverse health effects.    
     
