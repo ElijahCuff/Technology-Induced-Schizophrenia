@@ -16,28 +16,33 @@ US Navy conducted several successful studies in 2003 that seem to have made it i
   
 
   
-#### Inspired by "Screen Slaver" from "The Incredibles", this is the first application I have developed and are aware of in existence to target people's psychology for adverse health effects.    
-    
-### Concept   
+### Low Volume Audio Commands   
+- Playing low volume audio in the background of a smartphone can also help to induce "Schizophrenia like symptoms"
+> ( I can hear voices )   
+
+### Warnings 
 > Several security risks surrounding psychology and mental stability are being treated as benign or unlikely scenarios, when in reality they're extremely dangerous in the wrong hands and are actively being used throughout the world to target innocent individuals.   
       
 > This project DOES NOT include information on EMF and EMR Exposure, Transcranial Magnetic Stimulation.
     
 #### Audio.  
-- Random Playback of Vocal Commands "quite enough to disguise location".      
-- Ultrasonic Audio Transmission "Just out of normal audible hearing but enough to vibrate the inner ear bones and cause internal vocal commands to a target".    
+- Random Playback of Vocal Commands "quite enough to disguise location, or after someone is determined asleep".   
+- Ultrasonic Audio Transmission "Just out of normal audible hearing but enough to vibrate the inner ear bones and cause internal vocal commands to a target, around 20,000 Hz".    
+- Subliminal Audio commands in music and video content.   
 
 #### Video.    
 • Subliminal Imaging ( Image Flickers ) "quick enough not to notice a change in picture"
    
   
-#### Hypnosis.   
-• To be discussed .....     
-      
-### OUTCOME.    
-Asking family and friends if they can hear voices too, the random timer makes it difficult to show anyone what they can hear, or where exactly it came from - eventually a doctor's appointment should be considered and any further treatment will result in side-effects that are likely to cause the desired outcome.    
-     
+### Notes,
+This application for android to begin with, is planned to contain - sleep detection and sleep hypnosis, sleep deprivation to make a victim stay awake, quite random audio playback and also if I can be bothered, Ultrasonic command playback.   
+       
+  
+### Desired Outcome,
+- Technology Induced Schizophrenia Diagnosis   
 
-Most likely diagnosis = Paranoid Schizophrenia,  "I'm hearing voices in my head, etc..."    
+> Asking family and friends if they can hear voices, the random timer makes it difficult to show anyone what they can hear, or where exactly it came from - eventually a doctor's appointment should be considered and any further treatment will result in side-effects that are likely to cause the desired outcome.    
+     
+- Most likely diagnosis = Paranoid Schizophrenia,  "I'm hearing voices in my head, I'm having personality changes, etc..."    
       
 
