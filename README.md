@@ -26,9 +26,10 @@ US Navy conducted several successful studies in 2003 that seem to have made it i
 - Playing low volume audio in the background of a smartphone can also help to induce "Schizophrenia like symptoms"
 > ( I can hear voices )      
  
-### Magnetic Radiation ( Microwave Radiation )    
+### Magnetic Radiation and Microwave Radiation     
 - Microwave radiation has proven to cause memory loss, loss of coordination, brain damage and in large doses "Radiation Poisoning" of a victim unaware of the dangerous surroundings.   
- 
+- Transcranial Magnetic Stimulation has proven effective at treatment of anxiety and depression along with other mental conditions found in mental institutions.        
+
 
 ### Warnings 
 > Several security risks surrounding psychology and mental stability are being treated as benign or unlikely scenarios, when in reality they're extremely dangerous in the wrong hands and are actively being used throughout the world to target innocent individuals.   
