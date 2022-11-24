@@ -14,7 +14,7 @@ US Navy conducted several successful studies in 2003 that seem to have made it i
 ### Consumer V2K     
 > A much simpler method to V2K transmission is using invisible headphones available on eBay.    
 - A small vibrating earpiece is put against the eardrum, then transmitter can be placed inside something close to the head - like a pillow or mattress, then wirelessly controlled via Bluetooth.    
-![screen](https://github.com/ElijahCuff/Technology-Induced-Schizophrenia-/blob/main/Example%201.jpg)
+![screen](https://github.com/ElijahCuff/Technology-Induced-Schizophrenia-/blob/main/Screenshot_20221124_162342.jpg)
    
     
 ### Sleep Hypnosis     
