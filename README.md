@@ -17,7 +17,9 @@ US Navy conducted several successful studies in 2003 that seem to have made it i
 ![screen](https://github.com/ElijahCuff/Technology-Induced-Schizophrenia-/blob/main/Screenshot_20221124_162342.jpg)
 ![screen](https://github.com/ElijahCuff/Technology-Induced-Schizophrenia-/blob/main/Screenshot_20221124_162326.jpg)
    
-
+   
+Remote neural monitoring ( R.N.M )    
+https://www.learning-mind.com/remote-neural-monitoring-how-they-spy-on-your-thoughts/
     
 ### Sleep Hypnosis     
 - Smart applications designed to detect sleeping, then play a series of vocal commands to hypnotise the victim have shown to be extremely effective at providing life changing results.     
