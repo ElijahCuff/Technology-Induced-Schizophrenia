@@ -1,6 +1,4 @@
-# Technology Induced & Enhanced Schizophrenia.       
-### After recently being bashed in the head and having my mind hacked, I can no longer assist in education - this is my last project I can find the brain cells to provide.    
-   
+# Technology Induced & Enhanced Schizophrenia.  
 
 > A Cyber Security Education Initiative.       
 ( This information is provided for protection, not for attack case scenarios )
