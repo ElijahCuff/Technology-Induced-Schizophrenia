@@ -37,11 +37,6 @@ https://www.learning-mind.com/remote-neural-monitoring-how-they-spy-on-your-thou
 - Playing low volume audio in the background of a smartphone can also help to induce "Schizophrenia like symptoms"
 > ( I can hear voices )      
  
-### Magnetic Radiation and Microwave Radiation     
-- Microwave radiation has proven to cause memory loss, loss of coordination, brain damage and in large doses "Radiation Poisoning" of a victim unaware of the dangerous surroundings.   
-- Transcranial Magnetic Stimulation has proven effective at treatment of anxiety and depression along with other mental conditions found in mental institutions.        
-
-
 ### Warnings 
 > Several security risks surrounding psychology and mental stability are being treated as benign or unlikely scenarios, when in reality they're extremely dangerous in the wrong hands and are actively being used throughout the world to target innocent individuals.   
       
@@ -53,10 +48,6 @@ This application for android to begin with, is planned to contain - sleep detect
        
   
 ### Desired Outcome,
-- Technology Induced Schizophrenia Diagnosis   
-
-> Asking family and friends if they can hear voices, the random timer makes it difficult to show anyone what they can hear, or where exactly it came from - eventually a doctor's appointment should be considered and any further treatment will result in side-effects that are likely to cause the desired outcome.    
-     
-- Most likely diagnosis = Paranoid Schizophrenia,  "I'm hearing voices in my head, I'm having personality changes, etc..."    
+- Paranoid Schizophrenia,  "I'm hearing voices in my head, I'm having personality changes, etc..."    
       
 
